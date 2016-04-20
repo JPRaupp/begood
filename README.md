@@ -1,2 +1,2 @@
 # begood
-dajaja
+<color: 998>
